@@ -21,7 +21,9 @@ Steps
 - go to inbound swcurity rules add http to allow outside access to vm and priority 110
 
 
-
+# Scale vm
+#############
+- go to size pick bigger compute
 
 #Resources
 ##################
