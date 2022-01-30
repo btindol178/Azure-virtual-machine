@@ -18,6 +18,7 @@ Steps
 - Once in vm go to add roles and features
 - choose web server role
 - click different features you want ans install
+- go to inbound swcurity rules add http to allow outside access to vm and priority 110
 
 
 
