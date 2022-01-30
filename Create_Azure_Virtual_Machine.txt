@@ -1,0 +1,20 @@
+Create azure virtual machine
+############################
+Steps
+########
+1) https://portal.azure.com/#home 
+2) create a resource
+3) click windows server2019 datacenter ((create))
+4) create resource group, name virutal machine, username and password (( linux you will have ssh key) allow access to 
+5) create disc premium ssd local redundant ((datadisc optional could attache from one vm to another could have a number of them ))can allow specific inbound ports, auto shutdown maybe, can us backups 
+6) submit and launch
+
+
+
+
+
+
+#Resources
+##################
+https://www.udemy.com/course/70532-azure/learn/lecture/13361638#overview
+https://azure.microsoft.com/en-us/pricing/calculator/virutalmachines
