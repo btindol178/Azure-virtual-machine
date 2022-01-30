@@ -13,6 +13,11 @@ Steps
 9) download rdp filelogin 
 
 
+# To turn into web server
+##################
+- Once in vm go to add roles and features
+- choose web server role
+- click different features you want ans install
 
 
 
