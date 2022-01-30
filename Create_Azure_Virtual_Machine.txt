@@ -6,8 +6,11 @@ Steps
 2) create a resource
 3) click windows server2019 datacenter ((create))
 4) create resource group, name virutal machine, username and password (( linux you will have ssh key) allow access to 
-5) create disc premium ssd local redundant ((datadisc optional could attache from one vm to another could have a number of them ))can allow specific inbound ports, auto shutdown maybe, can us backups 
+5) create disc premium ssd local redundant ((datadisc optional could attache from one vm to another could have a number of them ))can allow specific inbound ports 3389 , auto shutdown maybe, can us backups 
 6) submit and launch
+7) go to connect to rdp and then 3389 linux is ssh
+8) go to inboud security rule add service as rdp and priority as 100 lower the more urgent 
+9) download rdp filelogin 
 
 
 
